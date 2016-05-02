@@ -26,6 +26,7 @@ var person = {
 /* Create an array called `dataTypes` with atleast 1 of every data type;
  * (there are 6 different data types);
  */
+ var dataTypes = ["string", 3.14, true, null, undefined, ["this", "is", "an", "array"], {property: "propertyValue"}];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
