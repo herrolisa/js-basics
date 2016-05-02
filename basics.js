@@ -33,5 +33,8 @@ var person = {
  * It should also have a name attribute with the value of 'Spot'
  */
  var dog = {
-  name: "Spot"
+  name: "Spot",
+  bark: function(){
+    console.log("Bark! Bark!");
+  }
  };
